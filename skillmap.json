@@ -1,1 +1,8 @@
-
+{
+  "name": "Tony Shark",
+  "cardType": "link",
+  "description": "Tony Shark: O Rei Tubarão [Prof. Anderson Rodrigues] Neste tutorial, vamos começar a criar um jogo simples no MakeCode Arcade com um tubarão nadando em um cenário submarino e se alimentando de peixes e  com um pescador maluco querendo caça-lo.",
+  "imageUrl": "/static/skillmap/backgrounds/shark-map.png",
+  "url": "https://arcade.makecode.com/--skillmap#shark",
+  "directOpen": true
+},
